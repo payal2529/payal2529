@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @payal2529
-- 👀 I’m interested in Frontend Development.
+- 👀 I’m interested in Web Development & exploring many more.
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on a project where the stack is html, css and javascript.
 - 📫 How to reach me - [Linkedin](https://www.linkedin.com/in/payal-porwal-6428341b0)
