@@ -1,20 +1,23 @@
 # Payal Porwal
 ## Full Stack Web Developer | Desktop Application Engineer
 
-👋 Hello! I'm Payal, a passionate developer with expertise in web and desktop application development.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/payal-porwal-6428341b0)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717)](https://github.com/payal2529)
 
-### 🚀 Skills & Technologies
-- **Frontend:** HTML5, CSS3, JavaScript, jQuery, Bootstrap5
+Passionate web and desktop application developer with a keen interest in creating seamless digital experiences. Continuously expanding my skill set to stay at the forefront of technology.
+
+### 💻 Technical Skills
+- **Frontend:** HTML5, CSS3, JavaScript, jQuery, Bootstrap5, React (learning)
 - **Backend:** Node.js, PHP
 - **Database:** MySQL
 - **Desktop Development:** Electron.js
-- **Tools & Platforms:** phpMyAdmin, cPanel
-- **Version Control:** Git, GitHub
+- **DevOps & Tools:** Git, GitHub, phpMyAdmin, cPanel
+- **Design:** Canva
 
-### 🌱 Current Focus
-I'm currently expanding my skillset by learning React to enhance my frontend development capabilities.
+### 🚀 Current Focus
+Expanding my expertise in React to build more dynamic and efficient user interfaces.
 
-### 💼 Professional Interests
+### 🌟 Professional Interests
 - Web Development
 - Desktop Application Engineering
 - Full Stack Development
@@ -22,18 +25,17 @@ I'm currently expanding my skillset by learning React to enhance my frontend dev
 - Continuous Learning and Skill Enhancement
 
 ### 🤝 Open for Collaboration
-I'm eager to contribute to projects that utilize my tech stack. If you have a project involving HTML5, CSS3, Bootstrap5, JavaScript, jQuery, Electron.js, Node.js, PHP, MySQL, phpMyAdmin, or cPanel, I'd love to collaborate!
-
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/payal-porwal-6428341b0)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/payal2529)
+I'm eager to contribute to projects that leverage my diverse skill set. If you have a project involving any of the technologies in my stack, let's connect and create something amazing!
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=payal2529&show_icons=true&theme=radical)
+![Payal's GitHub stats](https://github-readme-stats.vercel.app/api?username=payal2529&show_icons=true&theme=radical)
 
-### 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-languages/?username=payal2529&layout=compact&theme=radical)
+### 📫 Get in Touch
+Feel free to reach out for collaborations or just a tech chat!
+
+- LinkedIn: [Payal Porwal](https://www.linkedin.com/in/payal-porwal-6428341b0)
+- GitHub: [@payal2529](https://github.com/payal2529)
 
 ---
 
-💡 I'm always open to new opportunities and challenges in the world of web and desktop development. Let's connect and create something amazing together!
+💡 Always open to new opportunities and challenges in the world of web and desktop development. Let's innovate together!
