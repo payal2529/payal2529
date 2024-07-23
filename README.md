@@ -7,7 +7,7 @@
 Passionate web and desktop application developer with a keen interest in creating seamless digital experiences. Continuously expanding my skill set to stay at the forefront of technology.
 
 ### 💻 Technical Skills
-- **Frontend:** HTML5, CSS3, JavaScript, jQuery, Bootstrap5, React (learning)
+- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap5, React (learning)
 - **Backend:** Node.js, PHP
 - **Database:** MySQL
 - **Desktop Development:** Electron.js
