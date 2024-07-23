@@ -13,6 +13,7 @@ Passionate web and desktop application developer with a keen interest in creatin
 - **Desktop Development:** Electron.js
 - **DevOps & Tools:** Git, GitHub, phpMyAdmin, cPanel
 - **Design:** Canva
+- **CMS:** Wordpress
 
 ### 🚀 Current Focus
 Expanding my expertise in React to build more dynamic and efficient user interfaces.
