@@ -51,8 +51,16 @@ Currently working on enterprise-level applications involving:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="mailto:payal.porwal.dev@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<a href="https://codeswithpayal.hashnode.dev">
+<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode"/>
+</a>
+
+<a href="https://www.youtube.com/@KnowledgeFactory22">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
+</a>
+
+<a href="https://www.instagram.com/knowledge_factory22">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
 </p>
 
@@ -248,6 +256,13 @@ Node.js • APIs • Real-Time Data Processing
 # 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=payal2529&label=Profile%20Views&color=0e75b6&style=flat)
+
+---
+
+## 📝 Latest Technical Articles
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
