@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Payal Porwal
 
-### Software Engineer | Hybrid App Developer | Backend Engineer
+### Senior Software Engineer | Backend Engineer | Full Stack developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Software+Engineer;Hybrid+Application+Developer;Backend+Engineer;Real-Time+Tracking+Systems+Developer;Railway+%26+Marine+Domain+Applications;Always+Learning+New+Technologies" />
 
@@ -118,13 +118,6 @@ I believe that teaching is one of the best ways to continuously learn and improv
 
 ---
 
-### Mobile & Desktop
-
-![Cordova](https://img.shields.io/badge/Cordova-E8E8E8?style=for-the-badge&logo=apachecordova)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron)
-
----
-
 ### Tools & DevOps
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
@@ -156,6 +149,64 @@ I believe that teaching is one of the best ways to continuously learn and improv
 
 ---
 
+# 🚀 Featured Projects
+
+### 🚆 Spot My Train
+
+Real-time railway tracking platform featuring:
+
+- Live Train Tracking
+- Route Information
+- Platform Information
+- Notification System
+- Analytics Dashboard
+
+Tech Stack:
+Node.js • MySQL • APIs • Maps Integration
+
+---
+
+### 🚉 MMTS Dashboard
+
+Real-time monitoring dashboard featuring:
+
+- Live Train Visualization
+- Historical Logs
+- Google Maps Integration
+- Data Analytics
+
+Tech Stack:
+JavaScript • PHP • MySQL • Google Maps API
+
+---
+
+### ⚓ Marine Navigation System
+
+Marine platform supporting:
+
+- Live Vessel Tracking
+- Emergency Alert Handling
+- Real-Time Navigation
+
+Tech Stack:
+Node.js • APIs • Real-Time Data Processing
+
+---
+
+# 🏅 Certifications
+
+✔ JavaScript (Basic)
+
+✔ JavaScript (Intermediate)
+
+✔ Node.js (Basic)
+
+✔ Problem Solving (Basic)
+
+✔ MERN Stack Internship
+
+---
+
 # 📈 GitHub Analytics
 
 <p align="center">
@@ -165,6 +216,12 @@ I believe that teaching is one of the best ways to continuously learn and improv
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=payal2529&layout=compact&theme=tokyonight"/>
 
 </p>
+
+---
+
+# 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=payal2529&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -182,21 +239,15 @@ I believe that teaching is one of the best ways to continuously learn and improv
 
 ---
 
-# 📝 Technical Writing
+# 🐍 Contribution Snake
 
-I regularly write articles about:
+![snake gif](https://github.com/payal2529/payal2529/blob/output/github-contribution-grid-snake.svg)
 
-- Frontend Development
-- JavaScript
-- React
-- Node.js
-- Electron.js
-- Web Development
-- Programming Concepts
+---
 
-🔗 Blog:
+# 👀 Profile Views
 
-https://codeswithpayal.hashnode.dev/
+![](https://komarev.com/ghpvc/?username=payal2529&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
