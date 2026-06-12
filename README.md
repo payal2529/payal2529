@@ -58,6 +58,37 @@ Currently working on enterprise-level applications involving:
 
 ---
 
+# 🎓 Knowledge Sharing & Community Contributions
+
+I enjoy sharing technical knowledge and helping developers grow through educational content and technical writing.
+
+### 📺 Knowledge Factory 22
+
+I regularly create educational content focused on:
+
+- JavaScript
+- Frontend Development
+- React
+- Node.js
+- Electron.js
+- Interview Preparation
+- Software Engineering Concepts
+- Career Guidance for Developers
+
+### 🌐 Community Platforms
+
+📺 YouTube: Knowledge Factory 22
+
+✍️ Hashnode Blog:
+https://codeswithpayal.hashnode.dev/
+
+📸 Instagram:
+https://www.instagram.com/knowledge_factory22
+
+I believe that teaching is one of the best ways to continuously learn and improve as a software engineer.
+
+---
+
 # 💻 Tech Stack
 
 ### Frontend
