@@ -110,7 +110,7 @@ Worked on:
 - Backend APIs
 
 Tech:
-Node.js • MySQL • APIs • Google Maps
+Php • MySQL • APIs • Google Maps
 
 ---
 
@@ -127,7 +127,7 @@ Worked on:
 - Backend Enhancements
 
 Tech:
-Node.js • MySQL • Railway APIs
+php • MySQL • Railway APIs
 
 ---
 
@@ -143,7 +143,7 @@ Features:
 - Google Maps Integration
 
 Tech:
-JavaScript • PHP • MySQL
+JavaScript • PHP • MySQL • file storage • charts • G-MAp apis
 
 ---
 
