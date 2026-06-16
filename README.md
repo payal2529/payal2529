@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi 👋, I'm Payal Porwal
+# Hi 👋 I'm Payal Porwal
 
-### Senior Software Engineer | Backend Engineer | Full Stack developer
+### Software Engineer | Full Stack Developer | Backend Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Software+Engineer;Hybrid+Application+Developer;Backend+Engineer;Real-Time+Tracking+Systems+Developer;Railway+%26+Marine+Domain+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Software+Engineer;Backend+Developer;Full+Stack+Developer;Real-Time+Tracking+Systems+Developer;Railway+Domain+Applications;Always+Learning+New+Technologies" />
 
 </div>
 
@@ -12,31 +12,25 @@
 
 ## 🚀 About Me
 
-Software Engineer with experience building scalable real-time applications across Railway and Marine domains.
+Software Engineer with experience in building scalable real-time applications across Railway and Tracking domains.
 
-I specialize in developing:
+I enjoy building production-grade applications involving:
 
-✅ Real-Time Tracking Systems
+- 🚆 Real-Time Train Tracking Systems
+- 🌍 Geolocation Based Applications
+- 🔔 Intelligent Notification Systems
+- 📊 Analytics & Monitoring Dashboards
+- ⚡ REST APIs & Backend Services
+- 📱 Hybrid Mobile Applications
+- 🖥 Desktop Applications using Electron.js
 
-✅ REST APIs & Backend Services
+### 🌱 Currently Learning
 
-✅ Hybrid Mobile Applications
-
-✅ Desktop Applications using Electron.js
-
-✅ Analytics Dashboards
-
-✅ Geolocation-Based Applications
-
-✅ Cloud Deployment & Production Support
-
-Currently working on enterprise-level applications involving:
-
-- Live Train Tracking
-- Intelligent Notification Systems
-- Marine Navigation Platforms
-- Real-Time Data Processing
-- Dashboard & Analytics Systems
+- Python
+- PostgreSQL
+- FastAPI
+- System Design
+- Backend Architecture
 
 ---
 
@@ -44,56 +38,21 @@ Currently working on enterprise-level applications involving:
 
 <p align="left">
 <a href="https://www.linkedin.com/in/payal-porwal-6428341b0">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/payal2529">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://codeswithpayal.hashnode.dev">
-<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode"/>
+<img src="https://img.shields.io/badge/Hashnode-blue?style=for-the-badge&logo=hashnode"/>
 </a>
 
 <a href="https://www.youtube.com/@KnowledgeFactory22">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
-</a>
-
-<a href="https://www.instagram.com/knowledge_factory22">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube"/>
 </a>
 </p>
-
----
-
-# 🎓 Knowledge Sharing & Community Contributions
-
-I enjoy sharing technical knowledge and helping developers grow through educational content and technical writing.
-
-### 📺 Knowledge Factory 22
-
-I regularly create educational content focused on:
-
-- JavaScript
-- Frontend Development
-- React
-- Node.js
-- Electron.js
-- Interview Preparation
-- Software Engineering Concepts
-- Career Guidance for Developers
-
-### 🌐 Community Platforms
-
-📺 YouTube: Knowledge Factory 22
-
-✍️ Hashnode Blog:
-https://codeswithpayal.hashnode.dev/
-
-📸 Instagram:
-https://www.instagram.com/knowledge_factory22
-
-I believe that teaching is one of the best ways to continuously learn and improve as a software engineer.
 
 ---
 
@@ -101,127 +60,167 @@ I believe that teaching is one of the best ways to continuously learn and improv
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery)
-
----
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+![jQuery](https://img.shields.io/badge/jQuery-blue?style=for-the-badge&logo=jquery)
 
 ### Backend
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-
----
+![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php)
+![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+![WebSocket](https://img.shields.io/badge/WebSocket-black?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-red?style=for-the-badge)
 
 ### Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![NeDB](https://img.shields.io/badge/NeDB-FF6F00?style=for-the-badge)
-
----
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
 
 ### Tools & DevOps
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel)
-
----
-
-# 🏆 Professional Highlights
-
-🚆 Developed real-time train tracking systems
-
-📍 Built geolocation-based search systems
-
-📊 Designed analytics dashboards with charts & reports
-
-⚓ Developed marine navigation platform features
-
-🔔 Implemented intelligent notification systems
-
-🌍 Integrated Google Maps APIs
-
-📱 Published mobile applications to Play Store & App Store
-
-🖥️ Built desktop applications using Electron.js
-
-⚡ Optimized APIs and backend performance
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-blue?style=for-the-badge)
+![cPanel](https://img.shields.io/badge/cPanel-orange?style=for-the-badge)
+![aaPanel](https://img.shields.io/badge/aaPanel-green?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![Render](https://img.shields.io/badge/Render-black?style=for-the-badge&logo=render)
 
 ---
 
 # 🚀 Featured Projects
 
-### 🚆 Spot My Train
+## 🚆 Spot My Train
+🔗 https://spotmytrain.co.in/
 
-Real-time railway tracking platform featuring:
+Worked on:
 
 - Live Train Tracking
-- Route Information
+- Route-wise Train Search
+- User Data Collection & Analytics
 - Platform Information
-- Notification System
-- Analytics Dashboard
+- Notification Systems
+- Backend APIs
 
-Tech Stack:
-Node.js • MySQL • APIs • Maps Integration
+Tech:
+Node.js • MySQL • APIs • Google Maps
 
 ---
 
-### 🚉 MMTS Dashboard
+## 🚄 HyLites Railway Platform
 
-Real-time monitoring dashboard featuring:
+🔗 https://hylites.trackmytrain.in/
 
-- Live Train Visualization
+Worked on:
+
+- Live Train Status
+- Route-wise Train Tracking
+- User Activity Tracking
+- Analytics Integration
+- Backend Enhancements
+
+Tech:
+Node.js • MySQL • Railway APIs
+
+---
+
+## 🚉 MMTS Dashboard
+
+🔗 https://suburban.trackmytrain.in/
+
+Features:
+
+- Live Train Monitoring
 - Historical Logs
+- Dashboard Analytics
 - Google Maps Integration
-- Data Analytics
 
-Tech Stack:
-JavaScript • PHP • MySQL • Google Maps API
+Tech:
+JavaScript • PHP • MySQL
 
 ---
 
-### ⚓ Marine Navigation System
+## 📦 Inventory & Order Management System
 
-Marine platform supporting:
+🔗 https://inventory-order-management-system-bay.vercel.app/
 
-- Live Vessel Tracking
-- Emergency Alert Handling
-- Real-Time Navigation
+Personal Full Stack Project
+
+Features:
+
+- Product Management
+- Customer Management
+- Order Processing
+- Inventory Tracking
+- Low Stock Alerts
+- Dashboard Analytics
 
 Tech Stack:
-Node.js • APIs • Real-Time Data Processing
+
+- React (Vite)
+- FastAPI
+- PostgreSQL
+- SQLAlchemy
+- Docker
+- Vercel
+- Render
+
+---
+
+# 🏆 Professional Highlights
+
+✅ Real-Time Train Tracking Systems
+
+✅ Analytics Dashboards
+
+✅ Railway Domain Applications
+
+✅ Google Maps Integrations
+
+✅ Backend API Development
+
+✅ Production Deployments
+
+✅ Database Design
+
+✅ Performance Optimization
 
 ---
 
 # 🏅 Certifications
 
-✔ JavaScript (Basic)
-
-✔ JavaScript (Intermediate)
-
-✔ Node.js (Basic)
-
-✔ Problem Solving (Basic)
-
-✔ MERN Stack Internship
+- JavaScript (Basic)
+- JavaScript (Intermediate)
+- Node.js (Basic)
+- Problem Solving (Basic)
+- MERN Stack Internship
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=payal2529&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=payal2529&show_icons=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=payal2529&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=payal2529&layout=compact"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=payal2529"/>
 
 </p>
 
@@ -229,65 +228,47 @@ Node.js • APIs • Real-Time Data Processing
 
 # 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=payal2529&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-# 🔥 Contribution Streak
-
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=payal2529&theme=tokyonight"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=payal2529&margin-w=15&margin-h=15"/>
+
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
-[![Payal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=payal2529&theme=tokyo-night)](https://github.com/payal2529)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=payal2529"/>
 
 ---
 
 # 🐍 Contribution Snake
 
-![snake gif](https://github.com/payal2529/payal2529/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/payal2529/payal2529/output/github-contribution-grid-snake.svg" />
 
 ---
 
-# 👀 Profile Views
+# 🎯 2026 Goals
 
-![](https://komarev.com/ghpvc/?username=payal2529&label=Profile%20Views&color=0e75b6&style=flat)
-
----
-
-## 📝 Latest Technical Articles
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-# 🎯 Current Goals
-
-- Master React Ecosystem
-- Advance Backend Architecture Skills
-- Learn Cloud & DevOps
+- Master Python Backend Development
+- Become Advanced in PostgreSQL
+- Learn FastAPI in Depth
+- Improve System Design Skills
 - Build Scalable SaaS Products
-- Contribute to Open Source
+- Contribute More to Open Source
 
 ---
 
 ## 💡 Favorite Quote
 
-"First, solve the problem. Then, write the code."
-
-— John Johnson
+> First, solve the problem. Then, write the code.
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks For Visiting My Profile
 
-Let's build something amazing together 🚀
+Let's Build Something Amazing Together 🚀
 
 </div>
